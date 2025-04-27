@@ -1,2 +1,2 @@
 #Just for tests!
-- Python 3.13.3
+- Python version 3.13.3
